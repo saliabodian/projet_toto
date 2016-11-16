@@ -1,3 +1,12 @@
+#Permet de spécifier les fichiers et les dossiers à ignorer lors des commit
+#les fichiers à commiter sont présents au niveau de l'onglet change
+
+/vendor
+/j40-upload-signup
+/j41-sessions-lostpassword
+/j42-autorisation
+composer.lock
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
